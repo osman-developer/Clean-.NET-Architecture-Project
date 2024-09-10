@@ -1,0 +1,17 @@
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.deps.json
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.runtimeconfig.json
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.dll
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\ClearnArch.Domain.dll
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\bin\Debug\net8.0\ClearnArch.Domain.pdb
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfo.cs
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArc.9B8778E9.Up2Date
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.dll
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\refint\CleanArch.Infrastructure.dll
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.pdb
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.genruntimeconfig.cache
+D:\Programming\CleanArchitecture .NET\CleanArch.Infrastructure\obj\Debug\net8.0\ref\CleanArch.Infrastructure.dll
